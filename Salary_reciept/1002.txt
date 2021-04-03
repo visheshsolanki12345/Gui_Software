@@ -1,0 +1,19 @@
+	Company Name, xyz
+	Address: Xyz, Floor4
+------------------------------------------------
+Employee ID		:  1002
+Salary of		:  1002-2021
+Generated On		:  26-12-2020
+------------------------------------------------
+Total Days		:  24
+Total Present		:  22
+Total Absent		:  2
+Convence		:  Rs.400
+Medical		:  Rs.1800
+PF		:  Rs.1500
+Gross Payment		: Rs.18500
+Net salary		: Rs.14058.33
+------------------------------------------------
+This is computer generated slip, not 
+required any signature
+
