@@ -1,0 +1,39 @@
+Data Bash Connecting.................
+
+Employee Management System:
+	Data Base Name = ems:
+		Table = emp_salary:
+            rows : e_id ,  designation ,  name ,  age ,  gender ,  email ,  location ,  doj ,  dob ,  experience ,  proof ,  contact ,  status ,  address ,  month ,  year ,  salary ,  days ,  abbsent ,  medical ,  found ,  convence ,  netsalary ,  salary_receipt 
+			
+Registration & login:
+    Data Base Name = login:
+		Table = : login_system:
+            rows: 
+                first_name, last_name, contact, email, s_qutions, s_ans, password, confirm_password
+                
+                
+Student Management System:
+    Data Base Name = student:
+		Table = : login_system:
+            rows: Roll_no, Name, f_name, m_name, email, gender, contact, dob, address
+
+
+Employee QR:
+    Data Base Name = qr:
+		Table =  emp_qr:
+            rows: e_id, name, designation, department
+
+
+
+
+
+
+
+
+
+
+
+
+                
+                
+                
