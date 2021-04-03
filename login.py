@@ -181,7 +181,7 @@ class Login_System:
 
     def regiration_windows(self):
         self.root.destroy()
-        import login1
+        import registration
 
 
 ################################## Username And Password Login ##############################################
